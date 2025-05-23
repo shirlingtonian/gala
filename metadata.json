@@ -1,0 +1,5 @@
+{
+  "name": "US University Rankings Explorer",
+  "description": "An interactive web application to view and sort American university rankings based on various metrics like SAT scores, acceptance rates, and endowment per student.",
+  "requestFramePermissions": []
+}
